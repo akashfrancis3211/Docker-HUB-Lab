@@ -1,5 +1,5 @@
 # Docker-HUB-Lab
-Pushing doceker images to docker hub then pulling that image from docker hub
+Pushing docker images to docker hub then pulling that image from docker hub
 
 ## Creating a Docker account
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f5b39474-760a-46f9-aa0a-5a3a1b893f6b" />
